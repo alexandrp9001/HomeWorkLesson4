@@ -1,0 +1,15 @@
+C:\C#\HomeWorkLesson4\task27\bin\Debug\net6.0\task27.exe
+C:\C#\HomeWorkLesson4\task27\bin\Debug\net6.0\task27.deps.json
+C:\C#\HomeWorkLesson4\task27\bin\Debug\net6.0\task27.runtimeconfig.json
+C:\C#\HomeWorkLesson4\task27\bin\Debug\net6.0\task27.dll
+C:\C#\HomeWorkLesson4\task27\bin\Debug\net6.0\task27.pdb
+C:\C#\HomeWorkLesson4\task27\obj\Debug\net6.0\task27.csproj.AssemblyReference.cache
+C:\C#\HomeWorkLesson4\task27\obj\Debug\net6.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\HomeWorkLesson4\task27\obj\Debug\net6.0\task27.AssemblyInfoInputs.cache
+C:\C#\HomeWorkLesson4\task27\obj\Debug\net6.0\task27.AssemblyInfo.cs
+C:\C#\HomeWorkLesson4\task27\obj\Debug\net6.0\task27.csproj.CoreCompileInputs.cache
+C:\C#\HomeWorkLesson4\task27\obj\Debug\net6.0\task27.dll
+C:\C#\HomeWorkLesson4\task27\obj\Debug\net6.0\refint\task27.dll
+C:\C#\HomeWorkLesson4\task27\obj\Debug\net6.0\task27.pdb
+C:\C#\HomeWorkLesson4\task27\obj\Debug\net6.0\task27.genruntimeconfig.cache
+C:\C#\HomeWorkLesson4\task27\obj\Debug\net6.0\ref\task27.dll
